@@ -1,3 +1,5 @@
+hi, i'm morgan :3
+
 student at colorado school of mines
 
 they/he
