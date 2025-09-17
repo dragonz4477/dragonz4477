@@ -1,8 +1,6 @@
-hi, i'm morgan :3
+data science undergrad @ colorado school of mines
 
-student at colorado school of mines
-
-they/he
+bad game player and even worse game modder
 
 <!---
 dragonz4477/dragonz4477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
